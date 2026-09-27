@@ -19,7 +19,7 @@ const pixel = Silkscreen({
 });
 
 export const metadata: Metadata = {
-  title: "⚡ [OVERCLOCK // 00]",
+  title: "[OVERCLOCK // 00]",
   description: "Overclocked Thoughts // Zero Corporate Bloat",
 };
 
